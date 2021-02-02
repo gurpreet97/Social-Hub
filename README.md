@@ -1,5 +1,4 @@
-# Social-Hub
-Social Media Web Application
+# Social-Hub (Social Media Web Application)
 
 Developed a social media web application with lots of features like add friend, remove friend, share posts, like, comments, privacy for posts, story, like pages etc.
 
